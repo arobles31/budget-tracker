@@ -1,8 +1,5 @@
 # Budget Tracker
 
-![image](https://user-images.githubusercontent.com/76639155/127040493-75475a95-f736-4f13-9051-7361861c1472.png)
-
-
 Express.js
 MongoDB
 IndexedDB
