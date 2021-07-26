@@ -1,4 +1,4 @@
-# Budget Tracker Starter Code
+# Budget Tracker
 
 Express.js
 MongoDB
