@@ -1,6 +1,6 @@
 # Budget Tracker
 
-(https://user-images.githubusercontent.com/76639155/127040493-75475a95-f736-4f13-9051-7361861c1472.png)
+![image](https://user-images.githubusercontent.com/76639155/127042600-5b851090-bab9-4c47-95e3-5c99f9ef5aca.png)
 
 Express.js
 MongoDB
